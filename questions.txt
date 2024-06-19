@@ -1,0 +1,23 @@
+1. What is a web project?
+2. Difference between web project and stand alone project?
+3. Explain about web application architecture?
+4. What is deployment descriptor?
+5. What is the use of web.xml?
+6. What is the purpose of welcome-file-list tag?
+7. What is welcome-file tag?
+8. What is a servlet?
+9. What is the webserver?
+10. Name some web servers?
+11. Why should add servlet-api.jar file?
+12. User defined servlet is the subclass of ----? 
+13. Name the exception class while using web application?
+14. Explain the life cycle method of servlets?
+15. What are request parameters?
+16. What is the diff btw include and forward methods of request dispatcher?
+17. What is print writer class?
+18. Explain about get writer method of print writer?
+19. Why session management used in web applications?
+20. What is servlet request and servlet response?
+21. Name the classes of which request and response are assigned?
+22. How to perform inter servlet communication?
+
